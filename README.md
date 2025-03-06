@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @netpisto
+- 👋 Hi, I’m @jakemiller
 - 👀 I’m interested in python
 - 🌱 I’m currently learning everything is new
 - 💞️ I’m looking to collaborate on a software project
-- 📫 How to reach me via my email netpisto@gmail.com or telegram @netpisto
+- 📫 How to reach me via my email jaxxeny@gmail.com or telegram @jaxxeny
 
 <!---
 netpisto/netpisto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
